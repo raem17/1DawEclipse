@@ -1,0 +1,11 @@
+form span div > p, span > ul > li p {
+	margin: 0 !important;
+}
+
+form span div > img {
+	height: 80% !important;
+}
+
+label {
+	margin-top: 1rem !important;
+}

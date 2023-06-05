@@ -1,0 +1,4 @@
+235;La Casa de Jack;2018;150;Dinamarca;Lars Von Trier;Lars Von Trier;Manuel Alberto Claro;Matt Dilon, Angelina, Uma Thurman, Riley Keough
+236;Creed II;2018;130;Estados Unidos;Steven Caple;Ludwing Goransson;Kramer Morgenthau;Michael B.Jordan, Silvester Stallone, Tessa Thomson, Dolph Lundgren
+244;Green Book;2018;130;Estados Unidos;Peter Farrelly;Brian Hayes;Kris Bowers;Sean Porter, Viggo Mortensen, Mahershala Ali,Iqbal Theba, Harrison Stone
+123;Venom;2018;112;Estados Unidos;Ruben Fleischer;Scott Rosenberg;Ludwin Goranson;Toam Hardy, Riz Ahmen, Michelle Williams, State 

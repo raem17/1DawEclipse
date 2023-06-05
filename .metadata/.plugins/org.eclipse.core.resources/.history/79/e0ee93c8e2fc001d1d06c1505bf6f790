@@ -1,0 +1,12 @@
+import java.util.ArrayList;
+
+public class CompanyaAlt {
+	private String nombre_companya;
+	private int cod_gru;
+	private ArrayList<Disco> discos;
+	
+	public CompanyaAlt() {
+		super();
+	}
+
+}

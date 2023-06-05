@@ -1,0 +1,8 @@
+enfermera;Juan;Lois Banyuls;Pediatría;;09/09/2000;;;;
+medico;Antonio;García Perez;;traumatología;22/02/1970;267;345;;
+administrativo;Pedro;Canedo Perez;Administración;;10/02/1986;;;;bajo
+celador;Rosa;Álvarez Cano;Urgencias;;03/10/1990;;;79;
+medico;Agustin;Perez López;;Neumología;12/10/1960;490;123;;
+enfermera;Cristina;Sanchez Gutierrez;Urgencias;;03/12/1990;;;;
+celador;Blas;Comper Tras;Pediatría;;02/09/1995;;;90;
+administrativo;Rosita;López Díaz;Administración;;10/12/1980;;;;alto

@@ -1,0 +1,12 @@
+Búfalo:Búfalo 1:España:0:0.0:0:No peludo
+Búfalo:Búfalo 2:África:0:0.0:0:No peludo
+Hiena:Hiena 1:Francia:0:0.0:0:0
+Hiena:Hiena 2:Brasil:0:0.0:0:0
+Hipopótamo:Hipo 1:null:0:0.0:0:0:0
+Hipopótamo:Hipo 2:null:0:0.0:0:0:0
+Jirafa:Jirafa 1:null:0:0.0:0:0
+Jirafa:Jirafa 2:null:0:0.0:0:0
+León:León 1:null:0:0.0:0:0:No agresivo
+León:León 2:null:0:0.0:0:0:No agresivo
+Tigre:Tigre 1:null:0:0.0:null:0
+Tigre:Tigre 2:null:0:0.0:null:0

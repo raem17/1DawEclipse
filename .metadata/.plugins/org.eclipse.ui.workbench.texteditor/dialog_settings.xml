@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="607"/>
+		<item key="DIALOG_Y_ORIGIN" value="358"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<item key="selection" value="null"/>
+		<list key="findhistory">
+			<item value="null"/>
+			<item value="2023"/>
+			<item value="emple"/>
+			<item value="orga"/>
+			<item value="6t"/>
+			<item value="Dire"/>
+			<item value="tu"/>
+			<item value="Nombre"/>
+			<item value="tu Nombre"/>
+			<item value="tuNombre"/>
+			<item value="especie"/>
+			<item value="posicionAnimal"/>
+			<item value="emfermera"/>
+			<item value="num_ejes"/>
+			<item value="Utilidades."/>
+		</list>
+		<list key="replacehistory">
+			<item value="claseAnimal"/>
+			<item value="posicion"/>
+			<item value="enfermera"/>
+			<item value="num_Ejes"/>
+			<item value=""/>
+			<item value="nombresMarcas"/>
+			<item value="Introduzca"/>
+			<item value="o"/>
+			<item value="i"/>
+			<item value="a"/>
+			<item value="e"/>
+			<item value="datosCliente"/>
+			<item value="datosClientes"/>
+			<item value="tamañoHistorialMax"/>
+			<item value="&quot;"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="1198"/>
+		<item key="DIALOG_Y_ORIGIN" value="280"/>
+		<item key="DIALOG_WIDTH" value="457"/>
+		<item key="DIALOG_HEIGHT" value="459"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>

@@ -1,0 +1,7 @@
+INDEX VERSION 1.132
+C:\Users\roger\OneDrive\Escritorio\Workspace DAW\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2741035611.index
+\Peliculas\src\main\java
+C:\Users\roger\OneDrive\Escritorio\Workspace DAW\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1540216451.index
+\JSP_Coches\src\main\java
+C:\Users\roger\OneDrive\Escritorio\Workspace DAW\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3942450506.index
+\ProyectoWebPrueba1\src\main\java

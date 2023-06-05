@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;disco&apos; in &apos;BDController.devolverCompanyasAlts()&apos; to &apos;nuevoDisco&apos;&#x0D;&#x0A;- Original project: &apos;Examen_Musica_B&apos;&#x0D;&#x0A;- Original element: &apos;BDController.devolverCompanyasAlts().disco&apos;&#x0D;&#x0A;- Renamed element: &apos;disco&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;disco&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{BDController.java[BDController~devolverCompanyasAlts@disco!6369!6435!6375!6379!QDisco;!0!false" name="nuevoDisco" references="true" stamp="1685228919755" version="1.0"/>
+</session>

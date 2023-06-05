@@ -1,0 +1,11 @@
+127.0.0.1 - - [15/Mar/2023:16:03:02 +0100] "GET / HTTP/1.1" 404 687
+0:0:0:0:0:0:0:1 - - [15/Mar/2023:16:03:05 +0100] "GET /ProyectoWebPrueba1/index.jsp HTTP/1.1" 200 133
+0:0:0:0:0:0:0:1 - - [15/Mar/2023:16:03:05 +0100] "GET /favicon.ico HTTP/1.1" 404 698
+0:0:0:0:0:0:0:1 - - [15/Mar/2023:16:06:59 +0100] "GET /ProyectoWebPrueba1/index.jsp HTTP/1.1" 200 1239
+0:0:0:0:0:0:0:1 - - [15/Mar/2023:16:07:00 +0100] "GET /favicon.ico HTTP/1.1" 404 698
+0:0:0:0:0:0:0:1 - - [15/Mar/2023:16:07:32 +0100] "GET /ProyectoWebPrueba1/index.jsp HTTP/1.1" 200 1250
+0:0:0:0:0:0:0:1 - - [15/Mar/2023:16:07:33 +0100] "GET /favicon.ico HTTP/1.1" 404 698
+0:0:0:0:0:0:0:1 - - [15/Mar/2023:16:07:44 +0100] "GET /ProyectoWebPrueba1/index.jsp HTTP/1.1" 200 1342
+0:0:0:0:0:0:0:1 - - [15/Mar/2023:16:07:44 +0100] "GET /favicon.ico HTTP/1.1" 404 698
+0:0:0:0:0:0:0:1 - - [15/Mar/2023:16:12:35 +0100] "GET /ProyectoWebPrueba1/index.jsp HTTP/1.1" 200 1342
+0:0:0:0:0:0:0:1 - - [15/Mar/2023:16:12:35 +0100] "GET /favicon.ico HTTP/1.1" 404 698

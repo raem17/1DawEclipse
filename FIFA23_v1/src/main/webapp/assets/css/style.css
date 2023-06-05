@@ -1,0 +1,72 @@
+div.portero {
+	grid-area: portero;
+}
+
+div.defCentral1 {
+	grid-area: defCentral1;
+}
+
+div.defCentral2 {
+	grid-area: defCentral2;
+}
+
+div.latDer {
+	grid-area: latDer;
+}
+
+div.latIzq {
+	grid-area: latIzq;
+}
+
+div.delantero1 {
+	grid-area: delantero1;
+}
+
+div.delantero2 {
+	grid-area: delantero2;
+}
+
+div.centro1 {
+	grid-area: centro1;
+}
+
+div.centro2 {
+	grid-area: centro2;
+}
+
+div.extIzq {
+	grid-area: extIzq;
+}
+
+div.extDer {
+	grid-area: extDer;
+}
+
+section.campo {
+    margin: 0 auto;
+    width: 1330px;
+    height: 1900px;
+    background-image: url(images/campo.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    display: grid;
+    grid-template-rows: repeat(6, 1fr);
+    grid-template-columns: repeat(7, 1fr);
+    grid-template-areas:
+    ". delantero1 . . . delantero2 ."
+    "extIzq . . . . . extDer"
+    ". . centro1 . centro2 . ."
+    "latIzq . . . . . latDer"
+    ". . defCentral1 . defCentral2 . ."
+    ". . . portero . . .";
+    
+    transform: scale(0.55, 0.55);
+}
+
+
+
+
+
+

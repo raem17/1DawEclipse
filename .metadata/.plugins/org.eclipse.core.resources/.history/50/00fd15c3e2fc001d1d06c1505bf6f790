@@ -1,0 +1,43 @@
+import java.util.ArrayList;
+
+public class CompanyaAlt {
+	private String nombre_companya;
+	private int cod_gru;
+	private ArrayList<Disco> discos;
+	
+	public CompanyaAlt() {
+		super();
+	}
+
+	public CompanyaAlt(String nombre_companya, int cod_gru, ArrayList<String> discos) {
+		super();
+		this.nombre_companya = nombre_companya;
+		this.cod_gru = cod_gru;
+		this.discos = discos;
+	}
+
+	public String getNombre_companya() {
+		return nombre_companya;
+	}
+
+	public void setNombre_companya(String nombre_companya) {
+		this.nombre_companya = nombre_companya;
+	}
+
+	public int getCod_gru() {
+		return cod_gru;
+	}
+
+	public void setCod_gru(int cod_gru) {
+		this.cod_gru = cod_gru;
+	}
+
+	public ArrayList<String> getDiscos() {
+		return discos;
+	}
+
+	public void setDiscos(ArrayList<String> discos) {
+		this.discos = discos;
+	}
+
+}

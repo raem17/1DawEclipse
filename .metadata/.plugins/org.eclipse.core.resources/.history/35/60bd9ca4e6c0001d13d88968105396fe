@@ -1,0 +1,55 @@
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Scanner sctxt = new Scanner(System.in);
+		
+		System.out.println("Introduce el código sucio:");
+		String codigoSucio = sctxt.nextLine();
+		
+		String codigoLimpio = devolverCodigoLimpio(codigoSucio);
+		System.out.print("Código limpio:\n" + codigoLimpio);
+		
+		sctxt.close();
+	}
+	
+	// Métodos
+	
+	public static String devolverCodigoLimpio (String codigoSucio) {
+		String codigoLimpiov1 = "";
+		
+		// Quitar puntos
+		codigoLimpiov1 = codigoSucio.replace(".", "");
+		
+		// Quitar num/caracter inicial y final
+		String codigoLimpiov2 = "";
+		for (int i = 1; i < codigoLimpiov1.length()-1; i++) {
+			codigoLimpiov2 = codigoLimpiov2 + String.valueOf(codigoLimpiov1.charAt(i));
+		}
+		
+		// 3er paso
+		String codigoLimpiov3 = "";
+		for (int i = 0; i < codigoLimpiov2.length(); i++) {
+			// Si es minúscula convierte la letra a mayúscula
+			if (esMinuscula(String.valueOf(codigoLimpiov2.charAt(i)))) {
+				codigoLimpiov3 = codigoLimpiov3 + String.valueOf(codigoLimpiov2.charAt(i)).toUpperCase();
+				
+				// Si es mayúscula convierte la letra a minúscula
+			} else if (esMayuscula(String.valueOf(codigoLimpiov2.charAt(i)))) {
+				codigoLimpiov3 = codigoLimpiov3 + String.valueOf(codigoLimpiov2.charAt(i)).toLowerCase();
+			}
+		}
+		
+		return codigoLimpiov3;
+	}
+	
+	public static boolean esMinuscula (String cadena) {
+		return cadena.equals(cadena.toLowerCase());
+	}
+	
+	public static boolean esMayuscula (String cadena) {
+		return cadena.equals(cadena.toUpperCase());
+	}
+
+}

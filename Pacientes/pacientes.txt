@@ -1,0 +1,19 @@
+100|jose|Romerales Pinto|Azor�n, 34|M�stoles|28935|912563256|21/03/1975
+102|santiago|Gonz�lez Sancho|Coslada, 12|Madrid|28024|914562587|30/10/1947
+103|carmen|Rodr�guez Santacana|Javier Poncela, 3|Getafe|28902|915478555|06/11/1987
+110|alberto|Puig Monza|Divisi�n Azul, 56|Getafe|28902|914589966|18/07/1936
+120|sergio|P�rez Sanabria|Pizarro, 45|Alcorc�n|28223|915584471|12/04/1950
+130|jaime|Flores L�pez|Alcatraz, 56|Madrid|28001|914526654|23/01/1932
+131|enrique|Morales Miguel|Madrid, 45|Madrid|28028|914552203|12/08/1990
+140|ana|Torrente Hermosilla|Barcelona, 35|Alcorc�n|28223|914785236|25/03/1958
+142|olga|Prats Hern�ndez|Versalles, 2|M�stoles|28935|917458963|24/01/1980
+200|carlos|Jim�nez Blanco|Gran V�a, 123|Madrid|28003|914589632|12/01/1973
+201|maria|Tom�s Caballo|Enrique Velasco, 3|Madrid|28028|914578559|05/05/1955
+207|rogelia|Guerra Santa|Castellana, 12|Madrid|28025|914562258|12/07/1990
+220|ivan|Granadino Callejas|Doctor M�s, 46|Madrid|28015|914522369|19/07/1975
+231|luis|Navarrete Prat|Trujillo, 33|Alcorc�n|28223|914512589|13/06/1940
+240|monica|Armengol Prats|Doce de octrubre, 1|Madrid|28028|914588963|02/07/1985
+300|joaquin|Rodr�guez Monz�n|Barcelona, 111|Alcorc�n|28223|914578521|05/05/1977
+302|loreto|Mart�nez Lozano|Cipreses, 56|Alcorc�n|28223|914589632|24/01/1951
+400|luis|Mart�nez Garc�a|Olmos, 54|M�stoles|28935|911235641|24/01/1980
+401|luisa|Garc�a Montoro|Olmos, 24|M�stoles|28935|911235652|10/01/1975

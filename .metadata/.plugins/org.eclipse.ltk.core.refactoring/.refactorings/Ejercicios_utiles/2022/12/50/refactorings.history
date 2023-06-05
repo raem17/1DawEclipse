@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;eliminarDuplicados_Logica&apos; to &apos;A_EliminarDuplicados_Logica&apos;&#x0D;&#x0A;- Original project: &apos;Ejercicios_utiles&apos;&#x0D;&#x0A;- Original element: &apos;eliminarDuplicados_Logica&apos;&#x0D;&#x0A;- Renamed element: &apos;A_EliminarDuplicados_Logica&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;eliminarDuplicados_Logica&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{eliminarDuplicados_Logica.java[eliminarDuplicados_Logica" matchStrategy="1" name="A_EliminarDuplicados_Logica" qualified="false" references="true" similarDeclarations="false" stamp="1671372816102" textual="false" version="1.0"/>
+</session>
